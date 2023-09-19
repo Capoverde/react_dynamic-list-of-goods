@@ -1,2 +1,2 @@
 body{display:grid;place-items:center;background-color:#212121;font-family:sans-serif}h1{text-align:center}button,h1{color:#eee}button{margin-left:1rem;padding:1rem 2rem;border:1px solid #eee;border-radius:16px;background-color:transparent;cursor:pointer;transition:all .35s ease-in}button:hover:not(:nth-child(4)){-webkit-transform:scale(.98);transform:scale(.98);color:#bada55;border-color:#bada55}button:nth-child(4):hover{border-color:tomato;color:tomato}ul{list-style:none}ul li{padding:.2rem 0;border-bottom:1px solid #3c3c3c}
-/*# sourceMappingURL=main.0f42803d.chunk.css.map */
+/*# sourceMappingURL=main.0088db5e.chunk.css.map */
